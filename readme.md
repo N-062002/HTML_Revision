@@ -1,4 +1,4 @@
-++++++++++ Welocme to the HTML Revision +++++++++++
+Welocme to the HTML Revision
 ===================================================
 
 <h2>What is HTML?</h2>
@@ -9,6 +9,7 @@
     <li>HTML consists of a series of elements</li>
     <li>HTML elements tell the browser how to display the content</li>
     <li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
+
 </ul>
 
 
